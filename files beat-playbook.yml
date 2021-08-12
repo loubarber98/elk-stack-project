@@ -1,6 +1,6 @@
 ---
 - name: installing and launching filebeat
-  hosts: webservers
+  hosts: louis
   become: yes
   tasks:
 
