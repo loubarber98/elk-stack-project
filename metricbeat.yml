@@ -1,6 +1,6 @@
 ---
 - name: installing and launching metricbeat
-  hosts: webservers
+  hosts: louis
   become: yes
   tasks:
 
